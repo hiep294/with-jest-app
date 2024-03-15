@@ -12,7 +12,7 @@ export default function Page({ params }: Params) {
   return (
     <h1>
       Slug: {params.slug}
-      <p>Hole Tex</p>
+      <p>HoleTex</p>
       <p>Welcome to HCM</p>
     </h1>
   );
